@@ -16,7 +16,7 @@ public class ProxyFactory {
                     System.out.println("jdk代理开始");
                     Object returnObj = method.invoke(target, args);
                     System.out.println("jdk代理结束");
-                    return proxy;
+                    return returnObj;
                 });
     }
 }
