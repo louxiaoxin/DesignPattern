@@ -1,4 +1,4 @@
-package DesignPattern.factory.hdkfactory;
+package DesignPattern.factory.jdkfactory;
 
 import java.util.Calendar;
 
