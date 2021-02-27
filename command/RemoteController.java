@@ -1,7 +1,5 @@
 package DesignPattern.command;
 
-import org.omg.CORBA.NO_IMPLEMENT;
-
 public class RemoteController {
     Command[] onCommands;
     Command[] offCommands;
